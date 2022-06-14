@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "adm": 1,
+      "name": "John",
+      "class": "BCOM"
+    },
+    {
+      "adm": 2,
+      "name": "Mark",
+      "class": "ENG"
+    },
+    {
+      "adm": 3,
+      "name": "Joe",
+      "class": "Nursing"
+    },
+    {
+      "adm": 4,
+      "name": "Tim",
+      "class": "IOT"
+    },
+    {
+      "adm": 5,
+      "name": "Gody",
+      "class": "SOFT"
+    }
+  ]
+}
